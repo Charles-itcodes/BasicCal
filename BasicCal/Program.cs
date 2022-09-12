@@ -12,7 +12,7 @@
                 double number2 = 0;
                 double result = 0;
 
-                Console.WriteLine("\n-------------- Charles's Calculator Program-------------------");
+                Console.WriteLine("\n************* Charles's Calculator Program****************");
               
                 Console.Write("\nEnter number 1: ");
                 number1 = Convert.ToDouble(Console.ReadLine());
